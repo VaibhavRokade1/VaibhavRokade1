@@ -12,15 +12,16 @@
 
 ---
 
-### 📚 Learning Goals
-
-- ✅ Master **.NET Fullstack Development**.  
-- ✅ Build real-world apps with **React + .NET**.  
-- ✅ Learn **Next.js** and API integration with **.NET Core**.  
----
-
 ### 🛠️ Languages & Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,git,github,c,dotnet,csharp,mongodb,mysql,postman,nodejs,express,figma,vscode" alt="Languages and Tools" />
 </p>
+
+---
+### 📚 Learning Goals
+
+- ✅ Master **.NET Fullstack Development**.  
+- ✅ Build real-world apps with **React + .NET**.  
+- ✅ Learn **Next.js** and API integration with **.NET Core**.  
+
