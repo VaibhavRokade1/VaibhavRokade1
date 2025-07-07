@@ -1,10 +1,14 @@
 <!-- Profile README for Vaibhav Rokade -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Vaibhav+Rokade;Frontend+Developer+from+Pune;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=600&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Vaibhav+Rokade;Frontend+Developer+from+Pune;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
 </h1>
 
-<p align="center">
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&center=true&vCenter=true&width=450&height=40&lines=React+|+TailwindCSS+|+.NET+Stack;Building+Clean+UI+UX;Open+To+Collaborate" alt="Typing Animation Secondary" />
+</h3>
+
+<p align="center" style="margin-top:20px;">
   <img src="https://img.shields.io/badge/Frontend-Developer-blue?style=flat-square&logo=appveyor" alt="Frontend Developer" />
   <img src="https://img.shields.io/badge/.NET-Stack-purple?style=flat-square&logo=dotnet" alt=".NET Stack" />
   <img src="https://img.shields.io/badge/ReactJS-%2361DAFB.svg?style=flat-square&logo=react&logoColor=white" alt="ReactJS" />
@@ -58,6 +62,3 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,git,github,c,dotnet,csharp,mongodb,mysql,postman,nodejs,express,figma,vscode" alt="Languages and Tools" />
 </p>
-
----
-
