@@ -5,9 +5,9 @@
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Frontend-Developer-blue?style=flat-square&logo=appveyor" />
-  <img src="https://img.shields.io/badge/.NET-Stack-purple?style=flat-square&logo=dotnet" />
-  <img src="https://img.shields.io/badge/ReactJS-%2361DAFB.svg?style=flat-square&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Frontend-Developer-blue?style=flat-square&logo=appveyor" alt="Frontend Developer" />
+  <img src="https://img.shields.io/badge/.NET-Stack-purple?style=flat-square&logo=dotnet" alt=".NET Stack" />
+  <img src="https://img.shields.io/badge/ReactJS-%2361DAFB.svg?style=flat-square&logo=react&logoColor=white" alt="ReactJS" />
 </p>
 
 ---
@@ -15,73 +15,72 @@
 ### 👨‍💻 About Me
 
 - 🎓 I'm **Vaibhav Rokade**, a passionate front-end & fullstack developer from Pune, India.  
-- 💡 I love crafting clean UI/UX using **React, Tailwind CSS, and .NET stack**.  
-- 🌱 Currently learning **Full Stack .NET**, **Next.js**, and **Clean Architecture**  
-- 👨‍💻 Completed internship at **A2Z IT HUB Pvt. Ltd., Ahmednagar (Jan – May 2024)**  
-- 🔍 Always open for collaboration on **real-world full stack projects**
+- 💡 I craft clean UI/UX experiences using **React**, **Tailwind CSS**, and the **.NET stack**.  
+- 🌱 Currently learning **Full Stack .NET**, **Next.js**, and **Clean Architecture**.  
+- 👨‍💻 Completed internship at **A2Z IT HUB Pvt. Ltd., Ahmednagar (Jan – May 2024)**.  
+- 🔍 Open to collaboration on **real-world full stack projects**.
 
 ---
 
 ### 💼 Experience
 
-**Web Development Intern – A2Z IT HUB Pvt. Ltd.**  
-📍 Ahmednagar, Maharashtra  
+**Web Development Intern** – A2Z IT HUB Pvt. Ltd., Ahmednagar  
 🗓 Jan 2024 – May 2024  
-- Developed frontend interfaces using **React** and **Tailwind CSS**  
-- Built backend APIs with **Node.js + Express.js**  
-- Worked on MongoDB CRUD apps and dashboards  
-- Participated in daily standups and code reviews
+- Developed responsive UI with **React** and **Tailwind CSS**.  
+- Created backend APIs using **Node.js** and **Express.js**.  
+- Worked on MongoDB CRUD dashboards and applications.  
+- Participated in code reviews and Agile workflows.
 
 ---
 
 ### 🚀 Projects
 
 #### 🎵 Spotify Fullstack Clone  
-> Music streaming app with playlists, admin panel, and secure login  
-🛠 **Stack**: React, Tailwind CSS, Node.js, MySQL
+> Music streaming app with playlists, admin panel, and secure login.  
+🛠 **Tech:** React, Tailwind CSS, Node.js, MySQL.
 
 #### 🧠 Password Generator  
-> Customizable password generator with minimal UI  
-🛠 **Stack**: React, Tailwind CSS
+> Customizable password generator with a minimalist UI.  
+🛠 **Tech:** React, Tailwind CSS.
 
 #### 🏫 College Management System  
-> Admin portal to manage students, faculty, courses  
-🛠 **Stack**: MongoDB, Express, React, Node.js (MERN)
+> Admin portal to manage students, faculty, and courses.  
+🛠 **Tech:** MERN Stack (MongoDB, Express, React, Node.js).
 
 #### 🧱 Construction Management Website  
-> Tracks construction site progress, workforce, and expenses  
-🛠 **Stack**: MERN Stack
+> Dashboard for tracking construction progress, workforce, and expenses.  
+🛠 **Tech:** MERN Stack.
 
 #### 🌾 Familyizers – AI for Farmers *(In Progress)*  
-> AI tool to assist farmers with smart crop planning and decisions  
-🛠 **Planned Stack**: React, Python, AI APIs
+> AI-based smart crop planning assistant for farmers.  
+🛠 **Planned Tech:** React, Python, AI APIs.
 
 ---
 
 ### 📚 Learning Goals
 
-- ✅ Master **.NET Fullstack Development**  
-- ✅ Build real-world projects with **React + .NET**  
-- ✅ Learn **Next.js** and API integration with .NET Core  
-- ✅ Enhance design workflows using **Figma & UI/UX principles**  
-- ✅ Contribute to open source  
+- ✅ Master **.NET Fullstack Development**.  
+- ✅ Build real-world apps with **React + .NET**.  
+- ✅ Learn **Next.js** and API integration with **.NET Core**.  
+- ✅ Improve design workflow with **Figma & UI/UX principles**.  
+- ✅ Contribute to **open-source** projects.
 
 ---
 
 ### 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/vaibhvrokade" target="blank">
-    <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
+  <a href="https://linkedin.com/in/vaibhvrokade" target="_blank" rel="noopener">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
   </a>
 </p>
 
 ---
 
-### 🛠️ Languages and Tools
+### 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,git,github,c,dotnet,csharp,mongodb,mysql,postman,nodejs,express,figma,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,git,github,c,dotnet,csharp,mongodb,mysql,postman,nodejs,express,figma,vscode" alt="Languages and Tools" />
 </p>
 
 ---
@@ -89,37 +88,32 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/VaibhavRokade1?tab=followers" target="_blank">
+  <a href="https://github.com/VaibhavRokade1?tab=followers" target="_blank" rel="noopener">
     <img src="https://img.shields.io/github/followers/VaibhavRokade1?style=social" alt="GitHub Followers" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/VaibhavRokade1?tab=repositories" target="_blank">
+  </a> &nbsp;&nbsp;
+  <a href="https://github.com/VaibhavRokade1?tab=repositories" target="_blank" rel="noopener">
     <img src="https://img.shields.io/github/repos/VaibhavRokade1?style=social" alt="GitHub Repositories" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/VaibhavRokade1/stargazers" target="_blank">
+  </a> &nbsp;&nbsp;
+  <a href="https://github.com/VaibhavRokade1/stargazers" target="_blank" rel="noopener">
     <img src="https://img.shields.io/github/stars/VaibhavRokade1?style=social" alt="GitHub Stars" />
   </a>
 </p>
-
 
 ---
 
 ### 🎯 2025 Goals
 
-- Build **2+ fullstack apps** with live deployment  
-- Complete **Next.js + .NET API integration** project  
-- Design with accessibility and responsiveness in mind  
-- Share technical content and project walkthroughs on LinkedIn  
-- Contribute to open-source projects regularly  
+- Build **2+ fullstack apps** with live deployment.  
+- Complete **Next.js + .NET API integration** project.  
+- Design with accessibility and responsiveness in mind.  
+- Share technical content and walkthroughs on LinkedIn.  
+- Contribute regularly to open-source projects.
 
 ---
 
-### 🎯 Fun Fact
+### 🎉 Fun Fact
 
 > I love debugging more than coding 😄  
 > And I believe clean UI can tell a story before the user even clicks.
 
 ---
-
-
