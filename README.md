@@ -89,7 +89,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaibhvrokade&show_icons=true&theme=radical" alt="Vaibhav's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vaibhvrokade1&show_icons=true&theme=radical" alt="Vaibhav's GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhvrokade&theme=radical" />
 </p>
 
