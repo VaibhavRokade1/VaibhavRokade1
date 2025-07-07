@@ -89,8 +89,17 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaibhvrokade1&show_icons=true&theme=radical" alt="Vaibhav's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhvrokade&theme=radical" />
+  <a href="https://github.com/vaibhvrokade?tab=followers" target="_blank">
+    <img src="https://img.shields.io/github/followers/vaibhvrokade?style=social" alt="GitHub Followers" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/vaibhvrokade?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/github/repos/vaibhvrokade?style=social" alt="GitHub Repositories" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/vaibhvrokade/stargazers" target="_blank">
+    <img src="https://img.shields.io/github/stars/vaibhvrokade?style=social" alt="GitHub Stars" />
+  </a>
 </p>
 
 ---
