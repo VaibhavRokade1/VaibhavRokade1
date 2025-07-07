@@ -33,30 +33,6 @@
 
 ---
 
-### 🚀 Projects
-
-#### 🎵 Spotify Fullstack Clone  
-> Music streaming app with playlists, admin panel, and secure login.  
-🛠 **Tech:** React, Tailwind CSS, Node.js, MySQL.
-
-#### 🧠 Password Generator  
-> Customizable password generator with a minimalist UI.  
-🛠 **Tech:** React, Tailwind CSS.
-
-#### 🏫 College Management System  
-> Admin portal to manage students, faculty, and courses.  
-🛠 **Tech:** MERN Stack (MongoDB, Express, React, Node.js).
-
-#### 🧱 Construction Management Website  
-> Dashboard for tracking construction progress, workforce, and expenses.  
-🛠 **Tech:** MERN Stack.
-
-#### 🌾 Familyizers – AI for Farmers *(In Progress)*  
-> AI-based smart crop planning assistant for farmers.  
-🛠 **Planned Tech:** React, Python, AI APIs.
-
----
-
 ### 📚 Learning Goals
 
 - ✅ Master **.NET Fullstack Development**.  
@@ -85,35 +61,3 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/VaibhavRokade1?tab=followers" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/github/followers/VaibhavRokade1?style=social" alt="GitHub Followers" />
-  </a> &nbsp;&nbsp;
-  <a href="https://github.com/VaibhavRokade1?tab=repositories" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/github/repos/VaibhavRokade1?style=social" alt="GitHub Repositories" />
-  </a> &nbsp;&nbsp;
-  <a href="https://github.com/VaibhavRokade1/stargazers" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/github/stars/VaibhavRokade1?style=social" alt="GitHub Stars" />
-  </a>
-</p>
-
----
-
-### 🎯 2025 Goals
-
-- Build **2+ fullstack apps** with live deployment.  
-- Complete **Next.js + .NET API integration** project.  
-- Design with accessibility and responsiveness in mind.  
-- Share technical content and walkthroughs on LinkedIn.  
-- Contribute regularly to open-source projects.
-
----
-
-### 🎉 Fun Fact
-
-> I love debugging more than coding 😄  
-> And I believe clean UI can tell a story before the user even clicks.
-
----
