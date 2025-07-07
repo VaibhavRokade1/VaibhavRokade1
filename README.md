@@ -89,18 +89,19 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/vaibhvrokade?tab=followers" target="_blank">
-    <img src="https://img.shields.io/github/followers/vaibhvrokade?style=social" alt="GitHub Followers" />
+  <a href="https://github.com/VaibhavRokade1?tab=followers" target="_blank">
+    <img src="https://img.shields.io/github/followers/VaibhavRokade1?style=social" alt="GitHub Followers" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/vaibhvrokade?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/github/repos/vaibhvrokade?style=social" alt="GitHub Repositories" />
+  <a href="https://github.com/VaibhavRokade1?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/github/repos/VaibhavRokade1?style=social" alt="GitHub Repositories" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/vaibhvrokade/stargazers" target="_blank">
-    <img src="https://img.shields.io/github/stars/vaibhvrokade?style=social" alt="GitHub Stars" />
+  <a href="https://github.com/VaibhavRokade1/stargazers" target="_blank">
+    <img src="https://img.shields.io/github/stars/VaibhavRokade1?style=social" alt="GitHub Stars" />
   </a>
 </p>
+
 
 ---
 
